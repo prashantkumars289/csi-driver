@@ -6,17 +6,16 @@ require (
 	github.com/Scalingo/go-etcd-lock/v5 v5.0.8
 	github.com/container-storage-interface/spec v1.9.0
 	github.com/golang/protobuf v1.5.4
-	github.com/hpe-storage/common-host-libs v0.0.0-20260825165217-bdca0542e708
+	github.com/hpe-storage/common-host-libs v0.0.0-20260826053901-b3d9ec3bff99
 	github.com/hpe-storage/k8s-custom-resources v0.0.0-20260119040638-398cb5cb0d42
 	github.com/kubernetes-csi/csi-lib-utils v0.11.0
 	github.com/kubernetes-csi/csi-test v2.2.0+incompatible
 	github.com/kubernetes-csi/external-snapshotter/client/v6 v6.1.0
-	github.com/satori/go.uuid v1.2.0
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/mod v0.35.0
-	golang.org/x/net v0.55.0
-	golang.org/x/sys v0.45.0
+	golang.org/x/mod v0.38.0
+	golang.org/x/net v0.57.0
+	golang.org/x/sys v0.47.0
 	google.golang.org/grpc v1.82.1
 	k8s.io/api v0.34.3
 	k8s.io/apimachinery v0.34.3
@@ -67,6 +66,7 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.62.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
+	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sparrc/go-ping v0.0.0-20190613174326-4e5b6552494c // indirect
 	github.com/spf13/pflag v1.0.6 // indirect
@@ -80,10 +80,10 @@ require (
 	go.uber.org/zap v1.27.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/crypto v0.55.0 // indirect
 	golang.org/x/oauth2 v0.36.0 // indirect
-	golang.org/x/term v0.43.0 // indirect
-	golang.org/x/text v0.37.0 // indirect
+	golang.org/x/term v0.45.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260414002931-afd174a4e478 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260414002931-afd174a4e478 // indirect
